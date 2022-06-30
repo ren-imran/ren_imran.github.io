@@ -1,0 +1,35 @@
+background-color:#EEEBD9 
+
+header{
+  text-align:center;
+ text-color:#2E1114;}
+
+
+body {
+ color:#2E1114; 
+  text-align:center;
+  font-family:system-ui;
+}
+
+
+/* STYLE IMAGES */
+img{
+  border-radius:15%;
+  border: 30px solid #2E1114;}
+
+
+main{
+  margin-left:25%;
+margin-right:25%;}
+
+/* STYLE NAV BAR */
+nav{
+text-align: center;
+  text-color:#EEEBD9;
+  font-family:system-ui;
+  font-size: 18px;}
+
+ul{
+list-style-type:none;
+  background-color:#2E1114;
+  overflow:hidden;}
